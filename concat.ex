@@ -1,0 +1,2 @@
+name = "glo"
+"hey " <> name
